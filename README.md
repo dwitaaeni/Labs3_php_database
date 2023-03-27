@@ -1,4 +1,3 @@
-# Labs3_php_database
 # Tugas Pemograman Web 2
 ## Profil
 | #               | Biodata           |
